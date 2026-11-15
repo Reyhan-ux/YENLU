@@ -1,0 +1,3194 @@
+﻿{
+    "metadata":  {
+                     "region":  "Greater Buea, Fako Division, Southwest Region, Cameroon",
+                     "source":  "NASA SRTM 30m \u0026 Copernicus DEM GLO-30",
+                     "bbox":  {
+                                  "lat_min":  4.09,
+                                  "lat_max":  4.23,
+                                  "lon_min":  9.17,
+                                  "lon_max":  9.31
+                              },
+                     "resolution_deg":  0.007,
+                     "resolution_approx_m":  778,
+                     "grid_rows":  21,
+                     "grid_cols":  21,
+                     "total_cells":  441
+                 },
+    "lats":  [
+                 4.09,
+                 4.097,
+                 4.104,
+                 4.111,
+                 4.118,
+                 4.125,
+                 4.132,
+                 4.139,
+                 4.146,
+                 4.153,
+                 4.16,
+                 4.167,
+                 4.174,
+                 4.181,
+                 4.188,
+                 4.195,
+                 4.202,
+                 4.209,
+                 4.216,
+                 4.223,
+                 4.23
+             ],
+    "lons":  [
+                 9.17,
+                 9.177,
+                 9.184,
+                 9.191,
+                 9.198,
+                 9.205,
+                 9.212,
+                 9.219,
+                 9.226,
+                 9.233,
+                 9.24,
+                 9.247,
+                 9.254,
+                 9.261,
+                 9.268,
+                 9.275,
+                 9.282,
+                 9.289,
+                 9.296,
+                 9.303,
+                 9.31
+             ],
+    "grid":  [
+                 [
+                     {
+                         "elev_m":  961,
+                         "slope_pct":  17.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.1
+                     },
+                     {
+                         "elev_m":  885,
+                         "slope_pct":  17.1,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.6
+                     },
+                     {
+                         "elev_m":  784,
+                         "slope_pct":  16.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4
+                     },
+                     {
+                         "elev_m":  707,
+                         "slope_pct":  14.1,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.5
+                     },
+                     {
+                         "elev_m":  603,
+                         "slope_pct":  16.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.8
+                     },
+                     {
+                         "elev_m":  547,
+                         "slope_pct":  10,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.4
+                     },
+                     {
+                         "elev_m":  533,
+                         "slope_pct":  6.5,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.4
+                     },
+                     {
+                         "elev_m":  533,
+                         "slope_pct":  9.2,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.4
+                     },
+                     {
+                         "elev_m":  391,
+                         "slope_pct":  19.1,
+                         "slope_cat":  "Steep",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.4
+                     },
+                     {
+                         "elev_m":  312,
+                         "slope_pct":  13.1,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -0.9
+                     },
+                     {
+                         "elev_m":  289,
+                         "slope_pct":  8.1,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -0.8
+                     },
+                     {
+                         "elev_m":  351,
+                         "slope_pct":  1.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.2
+                     },
+                     {
+                         "elev_m":  277,
+                         "slope_pct":  5.4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -0.7
+                     },
+                     {
+                         "elev_m":  360,
+                         "slope_pct":  7.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.2
+                     },
+                     {
+                         "elev_m":  381,
+                         "slope_pct":  2.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.4
+                     },
+                     {
+                         "elev_m":  351,
+                         "slope_pct":  15.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.2
+                     },
+                     {
+                         "elev_m":  299,
+                         "slope_pct":  11.6,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -0.8
+                     },
+                     {
+                         "elev_m":  246,
+                         "slope_pct":  15.3,
+                         "slope_cat":  "Steep",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -0.5
+                     },
+                     {
+                         "elev_m":  247,
+                         "slope_pct":  9,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -0.5
+                     },
+                     {
+                         "elev_m":  227,
+                         "slope_pct":  11.6,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -0.4
+                     },
+                     {
+                         "elev_m":  232,
+                         "slope_pct":  9.3,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -0.4
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  1078,
+                         "slope_pct":  17.6,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.9
+                     },
+                     {
+                         "elev_m":  984,
+                         "slope_pct":  16.7,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.3
+                     },
+                     {
+                         "elev_m":  880,
+                         "slope_pct":  17.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.6
+                     },
+                     {
+                         "elev_m":  769,
+                         "slope_pct":  15.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.9
+                     },
+                     {
+                         "elev_m":  700,
+                         "slope_pct":  15.1,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.4
+                     },
+                     {
+                         "elev_m":  616,
+                         "slope_pct":  12.1,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.9
+                     },
+                     {
+                         "elev_m":  583,
+                         "slope_pct":  7.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  532,
+                         "slope_pct":  7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.3
+                     },
+                     {
+                         "elev_m":  490,
+                         "slope_pct":  16,
+                         "slope_cat":  "Steep",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.1
+                     },
+                     {
+                         "elev_m":  400,
+                         "slope_pct":  19.4,
+                         "slope_cat":  "Steep",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.5
+                     },
+                     {
+                         "elev_m":  349,
+                         "slope_pct":  14.6,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.2
+                     },
+                     {
+                         "elev_m":  362,
+                         "slope_pct":  9,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.2
+                     },
+                     {
+                         "elev_m":  319,
+                         "slope_pct":  18.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1
+                     },
+                     {
+                         "elev_m":  381,
+                         "slope_pct":  14.4,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.4
+                     },
+                     {
+                         "elev_m":  401,
+                         "slope_pct":  9.8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.5
+                     },
+                     {
+                         "elev_m":  467,
+                         "slope_pct":  8.1,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.9
+                     },
+                     {
+                         "elev_m":  372,
+                         "slope_pct":  8.4,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.3
+                     },
+                     {
+                         "elev_m":  362,
+                         "slope_pct":  11.6,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.2
+                     },
+                     {
+                         "elev_m":  316,
+                         "slope_pct":  10.2,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -0.9
+                     },
+                     {
+                         "elev_m":  317,
+                         "slope_pct":  7.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -0.9
+                     },
+                     {
+                         "elev_m":  304,
+                         "slope_pct":  7.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -0.9
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  1160,
+                         "slope_pct":  19.7,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.4
+                     },
+                     {
+                         "elev_m":  1052,
+                         "slope_pct":  17.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.7
+                     },
+                     {
+                         "elev_m":  958,
+                         "slope_pct":  16.3,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.1
+                     },
+                     {
+                         "elev_m":  875,
+                         "slope_pct":  17.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.6
+                     },
+                     {
+                         "elev_m":  781,
+                         "slope_pct":  17.5,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4
+                     },
+                     {
+                         "elev_m":  695,
+                         "slope_pct":  16.7,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.4
+                     },
+                     {
+                         "elev_m":  619,
+                         "slope_pct":  14.2,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.9
+                     },
+                     {
+                         "elev_m":  589,
+                         "slope_pct":  11,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  602,
+                         "slope_pct":  14.8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.8
+                     },
+                     {
+                         "elev_m":  579,
+                         "slope_pct":  16.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  513,
+                         "slope_pct":  17.3,
+                         "slope_cat":  "Steep",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.2
+                     },
+                     {
+                         "elev_m":  488,
+                         "slope_pct":  16.6,
+                         "slope_cat":  "Steep",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.1
+                     },
+                     {
+                         "elev_m":  570,
+                         "slope_pct":  18.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.6
+                     },
+                     {
+                         "elev_m":  568,
+                         "slope_pct":  13.7,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.6
+                     },
+                     {
+                         "elev_m":  506,
+                         "slope_pct":  13.8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.2
+                     },
+                     {
+                         "elev_m":  474,
+                         "slope_pct":  8.5,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2
+                     },
+                     {
+                         "elev_m":  376,
+                         "slope_pct":  8.2,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.3
+                     },
+                     {
+                         "elev_m":  417,
+                         "slope_pct":  6.5,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.6
+                     },
+                     {
+                         "elev_m":  399,
+                         "slope_pct":  8.5,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.5
+                     },
+                     {
+                         "elev_m":  337,
+                         "slope_pct":  5.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.1
+                     },
+                     {
+                         "elev_m":  339,
+                         "slope_pct":  3.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.1
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  1295,
+                         "slope_pct":  23.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.3
+                     },
+                     {
+                         "elev_m":  1176,
+                         "slope_pct":  20.7,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.5
+                     },
+                     {
+                         "elev_m":  1062,
+                         "slope_pct":  17.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.8
+                     },
+                     {
+                         "elev_m":  984,
+                         "slope_pct":  17.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.3
+                     },
+                     {
+                         "elev_m":  904,
+                         "slope_pct":  20.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -4.8
+                     },
+                     {
+                         "elev_m":  819,
+                         "slope_pct":  18.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.2
+                     },
+                     {
+                         "elev_m":  777,
+                         "slope_pct":  18.3,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.9
+                     },
+                     {
+                         "elev_m":  702,
+                         "slope_pct":  15.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.5
+                     },
+                     {
+                         "elev_m":  720,
+                         "slope_pct":  9.1,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.6
+                     },
+                     {
+                         "elev_m":  645,
+                         "slope_pct":  9.9,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.1
+                     },
+                     {
+                         "elev_m":  602,
+                         "slope_pct":  8.8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.8
+                     },
+                     {
+                         "elev_m":  614,
+                         "slope_pct":  9.7,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.9
+                     },
+                     {
+                         "elev_m":  591,
+                         "slope_pct":  4.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  585,
+                         "slope_pct":  2.4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  594,
+                         "slope_pct":  8.4,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  487,
+                         "slope_pct":  10,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.1
+                     },
+                     {
+                         "elev_m":  486,
+                         "slope_pct":  9.5,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2
+                     },
+                     {
+                         "elev_m":  461,
+                         "slope_pct":  6.8,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.9
+                     },
+                     {
+                         "elev_m":  421,
+                         "slope_pct":  7.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.6
+                     },
+                     {
+                         "elev_m":  381,
+                         "slope_pct":  6.5,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.4
+                     },
+                     {
+                         "elev_m":  364,
+                         "slope_pct":  3.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.3
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  1431,
+                         "slope_pct":  29.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.2
+                     },
+                     {
+                         "elev_m":  1274,
+                         "slope_pct":  26,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.2
+                     },
+                     {
+                         "elev_m":  1145,
+                         "slope_pct":  19.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.3
+                     },
+                     {
+                         "elev_m":  1102,
+                         "slope_pct":  15.4,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.1
+                     },
+                     {
+                         "elev_m":  1060,
+                         "slope_pct":  19.5,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.8
+                     },
+                     {
+                         "elev_m":  959,
+                         "slope_pct":  19,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.1
+                     },
+                     {
+                         "elev_m":  879,
+                         "slope_pct":  13.9,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.6
+                     },
+                     {
+                         "elev_m":  828,
+                         "slope_pct":  14.5,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.3
+                     },
+                     {
+                         "elev_m":  731,
+                         "slope_pct":  11.3,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.6
+                     },
+                     {
+                         "elev_m":  678,
+                         "slope_pct":  8.7,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.3
+                     },
+                     {
+                         "elev_m":  647,
+                         "slope_pct":  6.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.1
+                     },
+                     {
+                         "elev_m":  638,
+                         "slope_pct":  5.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3
+                     },
+                     {
+                         "elev_m":  626,
+                         "slope_pct":  6.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3
+                     },
+                     {
+                         "elev_m":  605,
+                         "slope_pct":  4.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.8
+                     },
+                     {
+                         "elev_m":  592,
+                         "slope_pct":  1.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  585,
+                         "slope_pct":  8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  522,
+                         "slope_pct":  7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.3
+                     },
+                     {
+                         "elev_m":  501,
+                         "slope_pct":  5.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.1
+                     },
+                     {
+                         "elev_m":  475,
+                         "slope_pct":  6.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2
+                     },
+                     {
+                         "elev_m":  421,
+                         "slope_pct":  7.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.6
+                     },
+                     {
+                         "elev_m":  383,
+                         "slope_pct":  6.3,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.4
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  1620,
+                         "slope_pct":  29.4,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.4
+                     },
+                     {
+                         "elev_m":  1461,
+                         "slope_pct":  28.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.4
+                     },
+                     {
+                         "elev_m":  1318,
+                         "slope_pct":  27.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.5
+                     },
+                     {
+                         "elev_m":  1208,
+                         "slope_pct":  18,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.7
+                     },
+                     {
+                         "elev_m":  1172,
+                         "slope_pct":  14.3,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.5
+                     },
+                     {
+                         "elev_m":  1052,
+                         "slope_pct":  17.5,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.7
+                     },
+                     {
+                         "elev_m":  948,
+                         "slope_pct":  15.7,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.1
+                     },
+                     {
+                         "elev_m":  872,
+                         "slope_pct":  11.8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.6
+                     },
+                     {
+                         "elev_m":  812,
+                         "slope_pct":  13.5,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.2
+                     },
+                     {
+                         "elev_m":  750,
+                         "slope_pct":  11.6,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.8
+                     },
+                     {
+                         "elev_m":  701,
+                         "slope_pct":  8.5,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.4
+                     },
+                     {
+                         "elev_m":  698,
+                         "slope_pct":  7.4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.4
+                     },
+                     {
+                         "elev_m":  682,
+                         "slope_pct":  6.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.3
+                     },
+                     {
+                         "elev_m":  641,
+                         "slope_pct":  6.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.1
+                     },
+                     {
+                         "elev_m":  611,
+                         "slope_pct":  5.4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.9
+                     },
+                     {
+                         "elev_m":  589,
+                         "slope_pct":  3.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  556,
+                         "slope_pct":  5.8,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.5
+                     },
+                     {
+                         "elev_m":  526,
+                         "slope_pct":  5.4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.3
+                     },
+                     {
+                         "elev_m":  485,
+                         "slope_pct":  5,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2
+                     },
+                     {
+                         "elev_m":  455,
+                         "slope_pct":  6.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.8
+                     },
+                     {
+                         "elev_m":  425,
+                         "slope_pct":  5.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.7
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  1760,
+                         "slope_pct":  27.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10.3
+                     },
+                     {
+                         "elev_m":  1590,
+                         "slope_pct":  24.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.2
+                     },
+                     {
+                         "elev_m":  1482,
+                         "slope_pct":  25.7,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.5
+                     },
+                     {
+                         "elev_m":  1340,
+                         "slope_pct":  23.6,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.6
+                     },
+                     {
+                         "elev_m":  1218,
+                         "slope_pct":  18.6,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.8
+                     },
+                     {
+                         "elev_m":  1113,
+                         "slope_pct":  15.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.1
+                     },
+                     {
+                         "elev_m":  1043,
+                         "slope_pct":  16.5,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.7
+                     },
+                     {
+                         "elev_m":  951,
+                         "slope_pct":  12.6,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.1
+                     },
+                     {
+                         "elev_m":  901,
+                         "slope_pct":  11.7,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -4.7
+                     },
+                     {
+                         "elev_m":  820,
+                         "slope_pct":  13.8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.2
+                     },
+                     {
+                         "elev_m":  769,
+                         "slope_pct":  10,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.9
+                     },
+                     {
+                         "elev_m":  752,
+                         "slope_pct":  6.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.8
+                     },
+                     {
+                         "elev_m":  711,
+                         "slope_pct":  6.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.5
+                     },
+                     {
+                         "elev_m":  671,
+                         "slope_pct":  4.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.2
+                     },
+                     {
+                         "elev_m":  658,
+                         "slope_pct":  5.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.2
+                     },
+                     {
+                         "elev_m":  603,
+                         "slope_pct":  4.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.8
+                     },
+                     {
+                         "elev_m":  586,
+                         "slope_pct":  4.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  545,
+                         "slope_pct":  5.8,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.4
+                     },
+                     {
+                         "elev_m":  506,
+                         "slope_pct":  4.3,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.2
+                     },
+                     {
+                         "elev_m":  494,
+                         "slope_pct":  5.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.1
+                     },
+                     {
+                         "elev_m":  448,
+                         "slope_pct":  6.8,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -1.8
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  1889,
+                         "slope_pct":  31.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -11.2
+                     },
+                     {
+                         "elev_m":  1715,
+                         "slope_pct":  26.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10
+                     },
+                     {
+                         "elev_m":  1630,
+                         "slope_pct":  24,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.5
+                     },
+                     {
+                         "elev_m":  1463,
+                         "slope_pct":  25.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.4
+                     },
+                     {
+                         "elev_m":  1350,
+                         "slope_pct":  23.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.7
+                     },
+                     {
+                         "elev_m":  1227,
+                         "slope_pct":  20.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.9
+                     },
+                     {
+                         "elev_m":  1147,
+                         "slope_pct":  18.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.3
+                     },
+                     {
+                         "elev_m":  1007,
+                         "slope_pct":  16.6,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.4
+                     },
+                     {
+                         "elev_m":  939,
+                         "slope_pct":  7.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5
+                     },
+                     {
+                         "elev_m":  919,
+                         "slope_pct":  8.4,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -4.9
+                     },
+                     {
+                         "elev_m":  841,
+                         "slope_pct":  10.2,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.4
+                     },
+                     {
+                         "elev_m":  789,
+                         "slope_pct":  8.3,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4
+                     },
+                     {
+                         "elev_m":  730,
+                         "slope_pct":  6.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.6
+                     },
+                     {
+                         "elev_m":  695,
+                         "slope_pct":  5.4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.4
+                     },
+                     {
+                         "elev_m":  651,
+                         "slope_pct":  5.3,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.1
+                     },
+                     {
+                         "elev_m":  613,
+                         "slope_pct":  3.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.9
+                     },
+                     {
+                         "elev_m":  599,
+                         "slope_pct":  3.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.8
+                     },
+                     {
+                         "elev_m":  566,
+                         "slope_pct":  4.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.6
+                     },
+                     {
+                         "elev_m":  528,
+                         "slope_pct":  3.8,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.3
+                     },
+                     {
+                         "elev_m":  511,
+                         "slope_pct":  3.5,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.2
+                     },
+                     {
+                         "elev_m":  476,
+                         "slope_pct":  5.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  2114,
+                         "slope_pct":  37.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -12.6
+                     },
+                     {
+                         "elev_m":  1904,
+                         "slope_pct":  33.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -11.3
+                     },
+                     {
+                         "elev_m":  1756,
+                         "slope_pct":  24,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10.3
+                     },
+                     {
+                         "elev_m":  1614,
+                         "slope_pct":  24.1,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.4
+                     },
+                     {
+                         "elev_m":  1503,
+                         "slope_pct":  22.6,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.7
+                     },
+                     {
+                         "elev_m":  1352,
+                         "slope_pct":  22.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.7
+                     },
+                     {
+                         "elev_m":  1221,
+                         "slope_pct":  18.6,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.8
+                     },
+                     {
+                         "elev_m":  1104,
+                         "slope_pct":  18.4,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.1
+                     },
+                     {
+                         "elev_m":  971,
+                         "slope_pct":  13.7,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.2
+                     },
+                     {
+                         "elev_m":  905,
+                         "slope_pct":  7.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -4.8
+                     },
+                     {
+                         "elev_m":  860,
+                         "slope_pct":  6.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.5
+                     },
+                     {
+                         "elev_m":  817,
+                         "slope_pct":  6.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.2
+                     },
+                     {
+                         "elev_m":  756,
+                         "slope_pct":  8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.8
+                     },
+                     {
+                         "elev_m":  698,
+                         "slope_pct":  6.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.4
+                     },
+                     {
+                         "elev_m":  664,
+                         "slope_pct":  4.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.2
+                     },
+                     {
+                         "elev_m":  627,
+                         "slope_pct":  4.5,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3
+                     },
+                     {
+                         "elev_m":  594,
+                         "slope_pct":  4.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  556,
+                         "slope_pct":  4.4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.5
+                     },
+                     {
+                         "elev_m":  526,
+                         "slope_pct":  3.4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.3
+                     },
+                     {
+                         "elev_m":  509,
+                         "slope_pct":  2.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.2
+                     },
+                     {
+                         "elev_m":  486,
+                         "slope_pct":  3.3,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  2302,
+                         "slope_pct":  39.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -13.9
+                     },
+                     {
+                         "elev_m":  2093,
+                         "slope_pct":  39.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -12.5
+                     },
+                     {
+                         "elev_m":  1864,
+                         "slope_pct":  31.3,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -11
+                     },
+                     {
+                         "elev_m":  1740,
+                         "slope_pct":  24.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10.2
+                     },
+                     {
+                         "elev_m":  1584,
+                         "slope_pct":  25.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.2
+                     },
+                     {
+                         "elev_m":  1443,
+                         "slope_pct":  24.1,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.3
+                     },
+                     {
+                         "elev_m":  1295,
+                         "slope_pct":  22.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.3
+                     },
+                     {
+                         "elev_m":  1145,
+                         "slope_pct":  21,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.3
+                     },
+                     {
+                         "elev_m":  1013,
+                         "slope_pct":  16.4,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.5
+                     },
+                     {
+                         "elev_m":  935,
+                         "slope_pct":  10.9,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5
+                     },
+                     {
+                         "elev_m":  874,
+                         "slope_pct":  9.1,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.6
+                     },
+                     {
+                         "elev_m":  816,
+                         "slope_pct":  7.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.2
+                     },
+                     {
+                         "elev_m":  766,
+                         "slope_pct":  7.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.9
+                     },
+                     {
+                         "elev_m":  714,
+                         "slope_pct":  7.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.5
+                     },
+                     {
+                         "elev_m":  667,
+                         "slope_pct":  6.4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.2
+                     },
+                     {
+                         "elev_m":  622,
+                         "slope_pct":  5,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.9
+                     },
+                     {
+                         "elev_m":  591,
+                         "slope_pct":  3.5,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  572,
+                         "slope_pct":  3.4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.6
+                     },
+                     {
+                         "elev_m":  552,
+                         "slope_pct":  3.8,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.5
+                     },
+                     {
+                         "elev_m":  523,
+                         "slope_pct":  3.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.3
+                     },
+                     {
+                         "elev_m":  499,
+                         "slope_pct":  3.8,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.1
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  2572,
+                         "slope_pct":  43.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -15.6
+                     },
+                     {
+                         "elev_m":  2342,
+                         "slope_pct":  44.6,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -14.1
+                     },
+                     {
+                         "elev_m":  2091,
+                         "slope_pct":  42.8,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -12.5
+                     },
+                     {
+                         "elev_m":  1881,
+                         "slope_pct":  26.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -11.1
+                     },
+                     {
+                         "elev_m":  1765,
+                         "slope_pct":  26.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10.4
+                     },
+                     {
+                         "elev_m":  1590,
+                         "slope_pct":  29,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.2
+                     },
+                     {
+                         "elev_m":  1412,
+                         "slope_pct":  26.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.1
+                     },
+                     {
+                         "elev_m":  1267,
+                         "slope_pct":  24.4,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.1
+                     },
+                     {
+                         "elev_m":  1114,
+                         "slope_pct":  21.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.1
+                     },
+                     {
+                         "elev_m":  1002,
+                         "slope_pct":  16.4,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.4
+                     },
+                     {
+                         "elev_m":  937,
+                         "slope_pct":  12.4,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5
+                     },
+                     {
+                         "elev_m":  874,
+                         "slope_pct":  12.8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.6
+                     },
+                     {
+                         "elev_m":  819,
+                         "slope_pct":  11.9,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.2
+                     },
+                     {
+                         "elev_m":  745,
+                         "slope_pct":  8.5,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.7
+                     },
+                     {
+                         "elev_m":  702,
+                         "slope_pct":  7.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.5
+                     },
+                     {
+                         "elev_m":  640,
+                         "slope_pct":  6.5,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3
+                     },
+                     {
+                         "elev_m":  616,
+                         "slope_pct":  4.3,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.9
+                     },
+                     {
+                         "elev_m":  592,
+                         "slope_pct":  4.1,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.7
+                     },
+                     {
+                         "elev_m":  560,
+                         "slope_pct":  4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.5
+                     },
+                     {
+                         "elev_m":  532,
+                         "slope_pct":  2.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.3
+                     },
+                     {
+                         "elev_m":  520,
+                         "slope_pct":  2.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.3
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  2798,
+                         "slope_pct":  36.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -17.1
+                     },
+                     {
+                         "elev_m":  2593,
+                         "slope_pct":  45.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -15.7
+                     },
+                     {
+                         "elev_m":  2344,
+                         "slope_pct":  53.8,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -14.1
+                     },
+                     {
+                         "elev_m":  1991,
+                         "slope_pct":  38.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -11.8
+                     },
+                     {
+                         "elev_m":  1866,
+                         "slope_pct":  23.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -11
+                     },
+                     {
+                         "elev_m":  1724,
+                         "slope_pct":  25.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10.1
+                     },
+                     {
+                         "elev_m":  1541,
+                         "slope_pct":  28.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.9
+                     },
+                     {
+                         "elev_m":  1379,
+                         "slope_pct":  26.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.9
+                     },
+                     {
+                         "elev_m":  1226,
+                         "slope_pct":  23.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.9
+                     },
+                     {
+                         "elev_m":  1119,
+                         "slope_pct":  20.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.2
+                     },
+                     {
+                         "elev_m":  1018,
+                         "slope_pct":  17,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.5
+                     },
+                     {
+                         "elev_m":  977,
+                         "slope_pct":  13.9,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.2
+                     },
+                     {
+                         "elev_m":  899,
+                         "slope_pct":  15.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.7
+                     },
+                     {
+                         "elev_m":  776,
+                         "slope_pct":  12.3,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.9
+                     },
+                     {
+                         "elev_m":  722,
+                         "slope_pct":  7.3,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.6
+                     },
+                     {
+                         "elev_m":  674,
+                         "slope_pct":  6.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.3
+                     },
+                     {
+                         "elev_m":  638,
+                         "slope_pct":  4.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3
+                     },
+                     {
+                         "elev_m":  601,
+                         "slope_pct":  4.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.8
+                     },
+                     {
+                         "elev_m":  567,
+                         "slope_pct":  3.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.6
+                     },
+                     {
+                         "elev_m":  545,
+                         "slope_pct":  2.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.4
+                     },
+                     {
+                         "elev_m":  524,
+                         "slope_pct":  2.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.3
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  2964,
+                         "slope_pct":  25.6,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -18.2
+                     },
+                     {
+                         "elev_m":  2884,
+                         "slope_pct":  36.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -17.6
+                     },
+                     {
+                         "elev_m":  2671,
+                         "slope_pct":  58.4,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -16.2
+                     },
+                     {
+                         "elev_m":  2231,
+                         "slope_pct":  55.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -13.4
+                     },
+                     {
+                         "elev_m":  2007,
+                         "slope_pct":  34.6,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -11.9
+                     },
+                     {
+                         "elev_m":  1826,
+                         "slope_pct":  28.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10.8
+                     },
+                     {
+                         "elev_m":  1681,
+                         "slope_pct":  27.4,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.8
+                     },
+                     {
+                         "elev_m":  1531,
+                         "slope_pct":  26.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.8
+                     },
+                     {
+                         "elev_m":  1380,
+                         "slope_pct":  25.3,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.9
+                     },
+                     {
+                         "elev_m":  1249,
+                         "slope_pct":  20.1,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7
+                     },
+                     {
+                         "elev_m":  1160,
+                         "slope_pct":  18.4,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.4
+                     },
+                     {
+                         "elev_m":  1055,
+                         "slope_pct":  16.3,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.7
+                     },
+                     {
+                         "elev_m":  944,
+                         "slope_pct":  16.6,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5
+                     },
+                     {
+                         "elev_m":  816,
+                         "slope_pct":  14.6,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.2
+                     },
+                     {
+                         "elev_m":  750,
+                         "slope_pct":  9.2,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.8
+                     },
+                     {
+                         "elev_m":  707,
+                         "slope_pct":  8.3,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.5
+                     },
+                     {
+                         "elev_m":  637,
+                         "slope_pct":  7.3,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3
+                     },
+                     {
+                         "elev_m":  605,
+                         "slope_pct":  4.7,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.8
+                     },
+                     {
+                         "elev_m":  567,
+                         "slope_pct":  3.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.6
+                     },
+                     {
+                         "elev_m":  545,
+                         "slope_pct":  3.3,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.4
+                     },
+                     {
+                         "elev_m":  517,
+                         "slope_pct":  4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.2
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  3163,
+                         "slope_pct":  25.7,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -19.4
+                     },
+                     {
+                         "elev_m":  3073,
+                         "slope_pct":  27.7,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -18.9
+                     },
+                     {
+                         "elev_m":  2974,
+                         "slope_pct":  46,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -18.2
+                     },
+                     {
+                         "elev_m":  2530,
+                         "slope_pct":  62.3,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -15.3
+                     },
+                     {
+                         "elev_m":  2219,
+                         "slope_pct":  50.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -13.3
+                     },
+                     {
+                         "elev_m":  2024,
+                         "slope_pct":  38.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -12
+                     },
+                     {
+                         "elev_m":  1847,
+                         "slope_pct":  32,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10.9
+                     },
+                     {
+                         "elev_m":  1670,
+                         "slope_pct":  27.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.7
+                     },
+                     {
+                         "elev_m":  1500,
+                         "slope_pct":  25.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.6
+                     },
+                     {
+                         "elev_m":  1340,
+                         "slope_pct":  22.6,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.6
+                     },
+                     {
+                         "elev_m":  1229,
+                         "slope_pct":  18.3,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.9
+                     },
+                     {
+                         "elev_m":  1108,
+                         "slope_pct":  16.5,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.1
+                     },
+                     {
+                         "elev_m":  995,
+                         "slope_pct":  16,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.4
+                     },
+                     {
+                         "elev_m":  894,
+                         "slope_pct":  14.6,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.7
+                     },
+                     {
+                         "elev_m":  814,
+                         "slope_pct":  12.2,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.2
+                     },
+                     {
+                         "elev_m":  736,
+                         "slope_pct":  8.9,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.7
+                     },
+                     {
+                         "elev_m":  687,
+                         "slope_pct":  8.5,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.4
+                     },
+                     {
+                         "elev_m":  622,
+                         "slope_pct":  8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.9
+                     },
+                     {
+                         "elev_m":  563,
+                         "slope_pct":  5.4,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.5
+                     },
+                     {
+                         "elev_m":  538,
+                         "slope_pct":  4.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.4
+                     },
+                     {
+                         "elev_m":  498,
+                         "slope_pct":  5.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.1
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  3321,
+                         "slope_pct":  16.4,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -20.5
+                     },
+                     {
+                         "elev_m":  3271,
+                         "slope_pct":  23.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -20.2
+                     },
+                     {
+                         "elev_m":  3136,
+                         "slope_pct":  34.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -19.3
+                     },
+                     {
+                         "elev_m":  2836,
+                         "slope_pct":  48.8,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -17.3
+                     },
+                     {
+                         "elev_m":  2606,
+                         "slope_pct":  55,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -15.8
+                     },
+                     {
+                         "elev_m":  2288,
+                         "slope_pct":  52.4,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -13.8
+                     },
+                     {
+                         "elev_m":  2030,
+                         "slope_pct":  38.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -12.1
+                     },
+                     {
+                         "elev_m":  1779,
+                         "slope_pct":  31.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10.5
+                     },
+                     {
+                         "elev_m":  1598,
+                         "slope_pct":  24.5,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.3
+                     },
+                     {
+                         "elev_m":  1472,
+                         "slope_pct":  23.5,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.5
+                     },
+                     {
+                         "elev_m":  1325,
+                         "slope_pct":  23.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.5
+                     },
+                     {
+                         "elev_m":  1159,
+                         "slope_pct":  18.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.4
+                     },
+                     {
+                         "elev_m":  1071,
+                         "slope_pct":  16.3,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.8
+                     },
+                     {
+                         "elev_m":  953,
+                         "slope_pct":  15.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.1
+                     },
+                     {
+                         "elev_m":  855,
+                         "slope_pct":  13.6,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.4
+                     },
+                     {
+                         "elev_m":  760,
+                         "slope_pct":  10.8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.8
+                     },
+                     {
+                         "elev_m":  704,
+                         "slope_pct":  9.4,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.5
+                     },
+                     {
+                         "elev_m":  618,
+                         "slope_pct":  8.7,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.9
+                     },
+                     {
+                         "elev_m":  570,
+                         "slope_pct":  4.3,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.6
+                     },
+                     {
+                         "elev_m":  553,
+                         "slope_pct":  3.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.5
+                     },
+                     {
+                         "elev_m":  521,
+                         "slope_pct":  4.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.3
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  3398,
+                         "slope_pct":  14.6,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -21
+                     },
+                     {
+                         "elev_m":  3394,
+                         "slope_pct":  23.7,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -20.9
+                     },
+                     {
+                         "elev_m":  3298,
+                         "slope_pct":  33.7,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -20.3
+                     },
+                     {
+                         "elev_m":  3073,
+                         "slope_pct":  38,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -18.9
+                     },
+                     {
+                         "elev_m":  2875,
+                         "slope_pct":  40,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -17.6
+                     },
+                     {
+                         "elev_m":  2600,
+                         "slope_pct":  50.4,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -15.8
+                     },
+                     {
+                         "elev_m":  2172,
+                         "slope_pct":  48.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -13
+                     },
+                     {
+                         "elev_m":  1884,
+                         "slope_pct":  32.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -11.1
+                     },
+                     {
+                         "elev_m":  1724,
+                         "slope_pct":  23.5,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10.1
+                     },
+                     {
+                         "elev_m":  1583,
+                         "slope_pct":  23.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.2
+                     },
+                     {
+                         "elev_m":  1407,
+                         "slope_pct":  23.7,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8
+                     },
+                     {
+                         "elev_m":  1252,
+                         "slope_pct":  21.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7
+                     },
+                     {
+                         "elev_m":  1141,
+                         "slope_pct":  17.5,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.3
+                     },
+                     {
+                         "elev_m":  1010,
+                         "slope_pct":  16.6,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.5
+                     },
+                     {
+                         "elev_m":  900,
+                         "slope_pct":  13.8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -4.7
+                     },
+                     {
+                         "elev_m":  809,
+                         "slope_pct":  12.1,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.1
+                     },
+                     {
+                         "elev_m":  719,
+                         "slope_pct":  11.4,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.6
+                     },
+                     {
+                         "elev_m":  633,
+                         "slope_pct":  11,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3
+                     },
+                     {
+                         "elev_m":  551,
+                         "slope_pct":  6.3,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.5
+                     },
+                     {
+                         "elev_m":  535,
+                         "slope_pct":  4.3,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.4
+                     },
+                     {
+                         "elev_m":  488,
+                         "slope_pct":  6.3,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.1
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  3548,
+                         "slope_pct":  26.6,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -22
+                     },
+                     {
+                         "elev_m":  3626,
+                         "slope_pct":  25.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -22.5
+                     },
+                     {
+                         "elev_m":  3550,
+                         "slope_pct":  34.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -22
+                     },
+                     {
+                         "elev_m":  3249,
+                         "slope_pct":  43.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -20
+                     },
+                     {
+                         "elev_m":  3008,
+                         "slope_pct":  43.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -18.4
+                     },
+                     {
+                         "elev_m":  2632,
+                         "slope_pct":  51,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -16
+                     },
+                     {
+                         "elev_m":  2249,
+                         "slope_pct":  46.8,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -13.5
+                     },
+                     {
+                         "elev_m":  2012,
+                         "slope_pct":  36.7,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -12
+                     },
+                     {
+                         "elev_m":  1805,
+                         "slope_pct":  26.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10.6
+                     },
+                     {
+                         "elev_m":  1664,
+                         "slope_pct":  23.7,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.7
+                     },
+                     {
+                         "elev_m":  1485,
+                         "slope_pct":  23,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.5
+                     },
+                     {
+                         "elev_m":  1352,
+                         "slope_pct":  22.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.7
+                     },
+                     {
+                         "elev_m":  1194,
+                         "slope_pct":  21.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.6
+                     },
+                     {
+                         "elev_m":  1046,
+                         "slope_pct":  18.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.7
+                     },
+                     {
+                         "elev_m":  931,
+                         "slope_pct":  16.4,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -4.9
+                     },
+                     {
+                         "elev_m":  808,
+                         "slope_pct":  13.3,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.1
+                     },
+                     {
+                         "elev_m":  728,
+                         "slope_pct":  10.4,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.6
+                     },
+                     {
+                         "elev_m":  648,
+                         "slope_pct":  10.9,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.1
+                     },
+                     {
+                         "elev_m":  562,
+                         "slope_pct":  7.8,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.5
+                     },
+                     {
+                         "elev_m":  529,
+                         "slope_pct":  4.5,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.3
+                     },
+                     {
+                         "elev_m":  492,
+                         "slope_pct":  4.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.1
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  3781,
+                         "slope_pct":  24.3,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -23.5
+                     },
+                     {
+                         "elev_m":  3797,
+                         "slope_pct":  19.7,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -23.6
+                     },
+                     {
+                         "elev_m":  3687,
+                         "slope_pct":  22.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -22.9
+                     },
+                     {
+                         "elev_m":  3476,
+                         "slope_pct":  38.8,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -21.5
+                     },
+                     {
+                         "elev_m":  3139,
+                         "slope_pct":  45.4,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -19.3
+                     },
+                     {
+                         "elev_m":  2824,
+                         "slope_pct":  47.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -17.2
+                     },
+                     {
+                         "elev_m":  2552,
+                         "slope_pct":  54.7,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -15.5
+                     },
+                     {
+                         "elev_m":  2242,
+                         "slope_pct":  54.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -13.5
+                     },
+                     {
+                         "elev_m":  1934,
+                         "slope_pct":  40.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -11.5
+                     },
+                     {
+                         "elev_m":  1766,
+                         "slope_pct":  28.6,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10.4
+                     },
+                     {
+                         "elev_m":  1582,
+                         "slope_pct":  25.8,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.2
+                     },
+                     {
+                         "elev_m":  1436,
+                         "slope_pct":  23.1,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.2
+                     },
+                     {
+                         "elev_m":  1286,
+                         "slope_pct":  24.7,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.2
+                     },
+                     {
+                         "elev_m":  1112,
+                         "slope_pct":  21.6,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.1
+                     },
+                     {
+                         "elev_m":  992,
+                         "slope_pct":  19.1,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.3
+                     },
+                     {
+                         "elev_m":  844,
+                         "slope_pct":  17.3,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.4
+                     },
+                     {
+                         "elev_m":  740,
+                         "slope_pct":  12.5,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.7
+                     },
+                     {
+                         "elev_m":  662,
+                         "slope_pct":  11.2,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.2
+                     },
+                     {
+                         "elev_m":  574,
+                         "slope_pct":  8.8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.6
+                     },
+                     {
+                         "elev_m":  536,
+                         "slope_pct":  4.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.4
+                     },
+                     {
+                         "elev_m":  506,
+                         "slope_pct":  3.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.2
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  3925,
+                         "slope_pct":  3.9,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -24.4
+                     },
+                     {
+                         "elev_m":  3917,
+                         "slope_pct":  15.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -24.3
+                     },
+                     {
+                         "elev_m":  3700,
+                         "slope_pct":  27.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -22.9
+                     },
+                     {
+                         "elev_m":  3498,
+                         "slope_pct":  27.6,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -21.6
+                     },
+                     {
+                         "elev_m":  3275,
+                         "slope_pct":  30.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -20.2
+                     },
+                     {
+                         "elev_m":  3069,
+                         "slope_pct":  30.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -18.8
+                     },
+                     {
+                         "elev_m":  2868,
+                         "slope_pct":  41.7,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -17.5
+                     },
+                     {
+                         "elev_m":  2581,
+                         "slope_pct":  54.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -15.7
+                     },
+                     {
+                         "elev_m":  2217,
+                         "slope_pct":  52.8,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -13.3
+                     },
+                     {
+                         "elev_m":  1935,
+                         "slope_pct":  39.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -11.5
+                     },
+                     {
+                         "elev_m":  1711,
+                         "slope_pct":  31,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10
+                     },
+                     {
+                         "elev_m":  1554,
+                         "slope_pct":  25.8,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9
+                     },
+                     {
+                         "elev_m":  1400,
+                         "slope_pct":  26.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8
+                     },
+                     {
+                         "elev_m":  1206,
+                         "slope_pct":  25.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.7
+                     },
+                     {
+                         "elev_m":  1059,
+                         "slope_pct":  22.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.8
+                     },
+                     {
+                         "elev_m":  899,
+                         "slope_pct":  19,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.7
+                     },
+                     {
+                         "elev_m":  793,
+                         "slope_pct":  14.5,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4
+                     },
+                     {
+                         "elev_m":  701,
+                         "slope_pct":  12.7,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.4
+                     },
+                     {
+                         "elev_m":  615,
+                         "slope_pct":  10.3,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -2.9
+                     },
+                     {
+                         "elev_m":  552,
+                         "slope_pct":  7.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.5
+                     },
+                     {
+                         "elev_m":  504,
+                         "slope_pct":  6.2,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.2
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  3722,
+                         "slope_pct":  30.9,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -23.1
+                     },
+                     {
+                         "elev_m":  3726,
+                         "slope_pct":  29.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -23.1
+                     },
+                     {
+                         "elev_m":  3640,
+                         "slope_pct":  27,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -22.5
+                     },
+                     {
+                         "elev_m":  3427,
+                         "slope_pct":  21.3,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -21.2
+                     },
+                     {
+                         "elev_m":  3329,
+                         "slope_pct":  22.8,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -20.5
+                     },
+                     {
+                         "elev_m":  3077,
+                         "slope_pct":  22.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -18.9
+                     },
+                     {
+                         "elev_m":  2977,
+                         "slope_pct":  21.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -18.2
+                     },
+                     {
+                         "elev_m":  2784,
+                         "slope_pct":  41.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -17
+                     },
+                     {
+                         "elev_m":  2439,
+                         "slope_pct":  50.7,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -14.7
+                     },
+                     {
+                         "elev_m":  2112,
+                         "slope_pct":  42.8,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -12.6
+                     },
+                     {
+                         "elev_m":  1877,
+                         "slope_pct":  33.4,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -11.1
+                     },
+                     {
+                         "elev_m":  1689,
+                         "slope_pct":  28.2,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.9
+                     },
+                     {
+                         "elev_m":  1498,
+                         "slope_pct":  27.3,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -8.6
+                     },
+                     {
+                         "elev_m":  1304,
+                         "slope_pct":  25.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.4
+                     },
+                     {
+                         "elev_m":  1148,
+                         "slope_pct":  23.7,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.4
+                     },
+                     {
+                         "elev_m":  972,
+                         "slope_pct":  21.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.2
+                     },
+                     {
+                         "elev_m":  847,
+                         "slope_pct":  16.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4.4
+                     },
+                     {
+                         "elev_m":  747,
+                         "slope_pct":  15,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.7
+                     },
+                     {
+                         "elev_m":  633,
+                         "slope_pct":  12.7,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3
+                     },
+                     {
+                         "elev_m":  554,
+                         "slope_pct":  8.8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.5
+                     },
+                     {
+                         "elev_m":  497,
+                         "slope_pct":  7.6,
+                         "slope_cat":  "Gentle",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.1
+                     }
+                 ],
+                 [
+                     {
+                         "elev_m":  3445,
+                         "slope_pct":  35.8,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -21.3
+                     },
+                     {
+                         "elev_m":  3472,
+                         "slope_pct":  32.7,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -21.5
+                     },
+                     {
+                         "elev_m":  3406,
+                         "slope_pct":  30.6,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -21
+                     },
+                     {
+                         "elev_m":  3385,
+                         "slope_pct":  13.1,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -20.9
+                     },
+                     {
+                         "elev_m":  3221,
+                         "slope_pct":  22.1,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -19.8
+                     },
+                     {
+                         "elev_m":  3118,
+                         "slope_pct":  12.8,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -19.2
+                     },
+                     {
+                         "elev_m":  3040,
+                         "slope_pct":  14.3,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -18.6
+                     },
+                     {
+                         "elev_m":  2935,
+                         "slope_pct":  33,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -18
+                     },
+                     {
+                         "elev_m":  2626,
+                         "slope_pct":  48.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -16
+                     },
+                     {
+                         "elev_m":  2289,
+                         "slope_pct":  45.6,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -13.8
+                     },
+                     {
+                         "elev_m":  2012,
+                         "slope_pct":  37.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -12
+                     },
+                     {
+                         "elev_m":  1773,
+                         "slope_pct":  30.1,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -10.4
+                     },
+                     {
+                         "elev_m":  1576,
+                         "slope_pct":  27.5,
+                         "slope_cat":  "Very Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -9.1
+                     },
+                     {
+                         "elev_m":  1376,
+                         "slope_pct":  24.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -7.8
+                     },
+                     {
+                         "elev_m":  1217,
+                         "slope_pct":  23.9,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -6.8
+                     },
+                     {
+                         "elev_m":  1032,
+                         "slope_pct":  21.5,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -5.6
+                     },
+                     {
+                         "elev_m":  906,
+                         "slope_pct":  17.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Upper Mountain Slope",
+                         "temp_lapse_degC":  -4.8
+                     },
+                     {
+                         "elev_m":  793,
+                         "slope_pct":  17.2,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -4
+                     },
+                     {
+                         "elev_m":  656,
+                         "slope_pct":  15.4,
+                         "slope_cat":  "Steep",
+                         "tier":  "Mid-Slope Town \u0026 Belt",
+                         "temp_lapse_degC":  -3.2
+                     },
+                     {
+                         "elev_m":  558,
+                         "slope_pct":  11.6,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2.5
+                     },
+                     {
+                         "elev_m":  476,
+                         "slope_pct":  10.9,
+                         "slope_cat":  "Moderate",
+                         "tier":  "Lowland Plains",
+                         "temp_lapse_degC":  -2
+                     }
+                 ]
+             ]
+}

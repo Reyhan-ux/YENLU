@@ -1,0 +1,120 @@
+{
+    "slot_metadata": {
+        "slot_identifier": "SLOT_2_IMPROVED_PRACTICES",
+        "target_region": "Buea / Mount Cameroon Slopes, Southwest Region, Cameroon",
+        "agroecological_zone": "Humid Forest with Bimodal Rainfall / Volcanic Uplands",
+        "target_system": "Intensified Smallholder Rainfed Intercropping",
+        "baseline_type": "Optimized / Recommended Technical Package (TIP)"
+    },
+    "farm_demographics": {
+        "farm_size_ha": {
+            "mean": 1.2,
+            "min": 0.5,
+            "max": 2.5
+        },
+        "land_tenure": "Customary ownership / Secured leasehold",
+        "labor_structure": {
+            "family_labor_pct": 50,
+            "hired_labor_pct": 50,
+            "mechanization_level": "Semi-mechanized (Knapsack sprayers, motorized weeders/tillers where accessible)"
+        }
+    },
+    "field_preparation_and_tillage": {
+        "land_clearing": {
+            "method": "Systematic clearing and herbicide-assisted burndown",
+            "tools": [
+                "Machete",
+                "Knapsack sprayer"
+            ],
+            "timing_relative_to_rains": "-21 days before onset"
+        },
+        "tillage_practice": {
+            "type": "Conservation tillage / Contour ridging with tied ridges",
+            "depth_cm": 15,
+            "erosion_control": "Stripe cropping, cover cropping, and biological bunds",
+            "residue_management": "In-situ chopping and deep incorporation or uniform surface mulching"
+        }
+    },
+    "cropping_system_and_phenology": {
+        "cropping_pattern": "Optimized Row Intercropping (Certified Hybrids + Disease-Free Planting Material)",
+        "primary_seasons": {
+            "season_1_first_rains": {
+                "sowing_window": "March 1 - March 25 (Early planting with first reliable rains)",
+                "establishment_method": "Precision dibbling / Certified seed treatment (fungicide/insecticide seed dressing)",
+                "plant_density_plants_per_ha": {
+                    "maize_component": 44000,
+                    "plantain_component": 1600,
+                    "cocoyam_component": 12000
+                }
+            },
+            "season_2_second_rains": {
+                "sowing_window": "August 1 - August 20",
+                "target_crops": "Improved early-maturing Maize, Legumes (Soybean/Cowpea rotation)"
+            }
+        }
+    },
+    "soil_and_nutrient_management": {
+        "fertilizer_regime": {
+            "inorganic_use": {
+                "applied": true,
+                "adoption_rate_pct": 100,
+                "primary_type": "NPK 12-14-19 (Basal) + Urea / Ammonium Nitrate (Topdress)",
+                "application_rate_kg_per_ha": {
+                    "npk_basal": 150.0,
+                    "urea_topdress": 100.0
+                },
+                "application_method": "Band placement / Deep placement with soil cover",
+                "timing_days_after_emergence": [
+                    14,
+                    40
+                ]
+            },
+            "organic_use": {
+                "applied": true,
+                "adoption_rate_pct": 80,
+                "source": "Composted farmyard manure combined with green manure cover crops (Mucuna/Pueraria)",
+                "application_rate_tons_per_ha": 4.0,
+                "timing": "Pre-planting land preparation (incorporated)"
+            }
+        }
+    },
+    "crop_protection": {
+        "weed_control": {
+            "method": "Integrated Weed Management (Pre-emergence herbicide + Targeted mechanical/hand weeding)",
+            "frequency_per_season": 3,
+            "timing_days_after_sowing": [
+                10,
+                30,
+                60
+            ]
+        },
+        "pest_and_disease_management": {
+            "scouting_method": "Scheduled weekly agronomic scouting using economic threshold levels (ETL)",
+            "chemical_pesticides": {
+                "use_level": "Optimized / Preventive and Curative",
+                "common_agents": [
+                    "Emamectin benzoate / Flubendiamide (Systematic Fall Armyworm control)",
+                    "Systemic triazole/strobilurin fungicides (Black Sigatoka management)"
+                ],
+                "application_equipment": "Calibrated motorized or high-pressure knapsack sprayers with drift guards"
+            }
+        }
+    },
+    "water_and_irrigation": {
+        "irrigation_type": "Rainfed with Water-Harvesting Enhancements",
+        "water_source": "Natural precipitation supplemented by soil moisture retention trenches",
+        "supplemental_irrigation": false
+    },
+    "harvest_and_post_harvest": {
+        "harvesting_method": "Timely physiological maturity harvesting using clean, sanitized tools",
+        "staggered_harvest": false,
+        "yield_baselines_ton_per_ha": {
+            "maize_grain_rainfed": 4.2,
+            "cassava_fresh_tuber": 22.0,
+            "plantain_fresh_fruit": 16.0,
+            "cocoyam_tuber": 12.5
+        },
+        "storage_loss_rate_pct": 5,
+        "post_harvest_handling": "Purdue Improved Crop Storage (PICS) bags for maize; solar drying units for roots/tubers"
+    }
+}
