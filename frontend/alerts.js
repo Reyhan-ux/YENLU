@@ -1,0 +1,13 @@
+// Sample advisory alerts. `type` maps to the notification toggles in Settings.
+export const ALERTS = [
+  { id: 'a1', type: 'flood', severity: 'high', title: 'Waterlogging risk at Lysoka Lowland', body: 'About 62 mm of rain is expected over the next 48 hours on soil that is already 83% saturated. Open drainage channels and delay fertiliser.', time: '35 min ago', fieldId: 'lysoka-lowland' },
+  { id: 'a2', type: 'flood', severity: 'medium', title: 'Heavy rain outlook for Bonakanda Flats', body: 'Showers are likely on Thursday. Cassava ridges on the lower side of the plot may hold water.', time: '2 h ago', fieldId: 'bonakanda-flats' },
+  { id: 'a3', type: 'dry', severity: 'medium', title: 'Soil moisture falling at Muea Groundnut Block', body: 'Moisture is at 52% during flowering. Mulch with dry grass or plantain leaves to slow evaporation.', time: '5 h ago', fieldId: 'muea-groundnut' },
+  { id: 'a4', type: 'rotation', severity: 'medium', title: 'Do not repeat tomatoes at Lysoka Lowland', body: 'Tomato after tomato raises wilt and nematode pressure. Plant a legume in Season A 2027, then return to vegetables.', time: 'Yesterday', fieldId: 'lysoka-lowland' },
+  { id: 'a5', type: 'planting', severity: 'low', title: 'Cover crop window at Bokwango Terrace', body: 'Beans are due for harvest on 28 Nov. Sow a short cover crop afterwards to protect the terrace from erosion.', time: 'Yesterday', fieldId: 'bokwango-terrace' },
+  { id: 'a6', type: 'market', severity: 'low', title: 'Groundnut prices up 6% in Buea Town', body: 'Shelled groundnut now sells near 950 XAF per kg. Your Muea block harvests in January.', time: '2 days ago', fieldId: 'muea-groundnut' },
+  { id: 'a7', type: 'market', severity: 'medium', title: 'Tomato prices dip 9% this week', body: 'Supply is high ahead of the harvest at Lysoka. Consider selling in Muea market where prices are steadier.', time: '2 days ago', fieldId: 'lysoka-lowland' },
+  { id: 'a8', type: 'rotation', severity: 'low', title: 'Rotation window opens in March', body: 'Bonakanda Flats finishes cassava in January. Vegetables are the next step in the rotation for Season A 2027.', time: '3 days ago', fieldId: 'bonakanda-flats' },
+  { id: 'a9', type: 'dry', severity: 'low', title: 'Dry season begins', body: 'Monthly rainfall normals fall below 60 mm from December. Plan watering for any vegetable plots you keep through the dry months.', time: '4 days ago', fieldId: null },
+  { id: 'a10', type: 'planting', severity: 'low', title: 'Book seed ahead of Season A', body: 'Groundnut and bean seed sells out early. Order before February for the March planting window.', time: '5 days ago', fieldId: null },
+];

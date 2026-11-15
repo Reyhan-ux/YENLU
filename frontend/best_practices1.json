@@ -1,0 +1,115 @@
+{
+    "slot_metadata": {
+        "slot_identifier": "SLOT_1_BASELINE_PRACTICES",
+        "target_region": "Buea / Mount Cameroon Slopes, Southwest Region, Cameroon",
+        "agroecological_zone": "Humid Forest with Bimodal Rainfall / Volcanic Uplands",
+        "target_system": "Smallholder Rainfed Intercropping",
+        "baseline_type": "Traditional Low-Input Business-As-Usual (BAU)"
+    },
+    "farm_demographics": {
+        "farm_size_ha": {
+            "mean": 1.2,
+            "min": 0.5,
+            "max": 2.5
+        },
+        "land_tenure": "Customary ownership / Family inheritance",
+        "labor_structure": {
+            "family_labor_pct": 75,
+            "hired_labor_pct": 25,
+            "community_labor_exchange": "Njangi / Labor pool networks"
+        }
+    },
+    "field_preparation_and_tillage": {
+        "land_clearing": {
+            "method": "Manual slashing and understory clearing",
+            "tools": [
+                "Machete",
+                "Cutlass"
+            ],
+            "timing_relative_to_rains": "-30 to -15 days before onset"
+        },
+        "tillage_practice": {
+            "type": "Minimum Tillage / Hand-hoe mounding",
+            "depth_cm": 10,
+            "erosion_control": "Contour ridges on steep slopes",
+            "residue_management": "Surface mulching with cleared biomass (occasional localized burning)"
+        }
+    },
+    "cropping_system_and_phenology": {
+        "cropping_pattern": "Intercropped (Plantain/Cocoyam anchor + Maize/Cassava/Egusi)",
+        "primary_seasons": {
+            "season_1_first_rains": {
+                "sowing_window": "March 15 - April 15",
+                "establishment_method": "Direct seed broadcasting (Maize) / Manual tuber/sucker planting",
+                "plant_density_plants_per_ha": {
+                    "maize_component": 25000,
+                    "plantain_component": 1100,
+                    "cocoyam_component": 8000
+                }
+            },
+            "season_2_second_rains": {
+                "sowing_window": "August 15 - September 15",
+                "target_crops": "Maize (short-cycle), Beans, Leafy Vegetables"
+            }
+        }
+    },
+    "soil_and_nutrient_management": {
+        "fertilizer_regime": {
+            "inorganic_use": {
+                "applied": true,
+                "adoption_rate_pct": 35,
+                "primary_type": "NPK 20-10-10",
+                "application_rate_kg_per_ha": 50.0,
+                "application_method": "Manual side-dressing (ring placement)",
+                "timing_days_after_emergence": [
+                    21,
+                    45
+                ]
+            },
+            "organic_use": {
+                "applied": true,
+                "adoption_rate_pct": 70,
+                "source": "Poultry manure, household ash, decomposed crop residue",
+                "application_rate_tons_per_ha": 1.5,
+                "timing": "At planting / Basal application"
+            }
+        }
+    },
+    "crop_protection": {
+        "weed_control": {
+            "method": "Manual hand weeding",
+            "frequency_per_season": 2,
+            "timing_days_after_sowing": [
+                20,
+                50
+            ]
+        },
+        "pest_and_disease_management": {
+            "scouting_method": "Visual inspection",
+            "chemical_pesticides": {
+                "use_level": "Low / Target-driven",
+                "common_agents": [
+                    "Cypermethrin (Fall Armyworm in maize)",
+                    "Copper-based fungicides (Fungal leaf spot)"
+                ],
+                "application_equipment": "Manual knapsack sprayer"
+            }
+        }
+    },
+    "water_and_irrigation": {
+        "irrigation_type": "100% Rainfed",
+        "water_source": "Natural precipitation (Annual avg: 2000mm - 3000mm)",
+        "supplemental_irrigation": false
+    },
+    "harvest_and_post_harvest": {
+        "harvesting_method": "Manual harvesting with hoes, sickles, and machetes",
+        "staggered_harvest": true,
+        "yield_baselines_ton_per_ha": {
+            "maize_grain_rainfed": 1.5,
+            "cassava_fresh_tuber": 10.0,
+            "plantain_fresh_fruit": 8.0,
+            "cocoyam_tuber": 6.0
+        },
+        "storage_loss_rate_pct": 15
+    }
+}
