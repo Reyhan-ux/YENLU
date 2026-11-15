@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/logo-yellow.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="description" content="YENLU: climate-resilient crop rotation and rainfall advisory for smallholder farmers in Buea." />
+    <title>YENLU | Crop rotation advisory</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Figtree:ital,wght@0,300..900;1,300..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Calistoga&family=Fraunces:ital,opsz,wght@0,9..144,400..900;1,9..144,400..900&family=Inter:wght@300;400;500;600;700;800&family=Syne:wght@500;600;700;800&family=Young+Serif&display=swap" rel="stylesheet" />
+    <script>
+      // Apply saved theme before first paint to avoid a flash
+      (function () {
+        var t = null;
+        try { t = JSON.parse(localStorage.getItem('yenlu:theme')); } catch (e) {}
+        if (!t) t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.classList.toggle('dark', t === 'dark');
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-w-7d0acD.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Ba7EMWUR.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Figtree:ital,wght@0,300..900;1,300..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Gopher';
+  src: local('Gopher'), local('Gopher-Regular'), local('Gopher Regular'), local('Gopher-Bold'), local('Gopher Bold');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+/* ---------- Base ---------- */
+@layer base {
+  html { -webkit-tap-highlight-color: transparent; scroll-behavior: smooth; font-family: 'Inter', sans-serif; }
+  body { @apply bg-canvas text-ink antialiased; font-family: 'Inter', sans-serif; font-weight: 400; overflow-x: hidden; }
+  .dark body { @apply bg-canvas-dark text-leaf-50; }
+  :focus-visible { outline: 2px solid #2F9A63; outline-offset: 2px; }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+  }
+}
+
+/* ---------- African Farm Motif Pattern Background ---------- */
+.african-motif-pattern {
+  background-image: url('/african-motifs.jpg');
+  background-repeat: repeat;
+  background-size: 380px 380px;
+}
+
+/* ---------- Soft mesh gradients (from the reference dashboard) ---------- */
+@layer components {
+  .grad-green {
+    background:
+      radial-gradient(90% 70% at 0% 0%, #8FE0B0 0%, transparent 60%),
+      radial-gradient(80% 80% at 100% 100%, #168A56 0%, transparent 65%),
+      linear-gradient(135deg, #3FB587, #27997A);
+  }
+  .grad-teal {
+    background:
+      radial-gradient(80% 70% at 100% 0%, #A5E6D6 0%, transparent 60%),
+      radial-gradient(90% 80% at 0% 100%, #16808C 0%, transparent 65%),
+      linear-gradient(135deg, #35B6A4, #2A8FA3);
+  }
+  .grad-amber {
+    background:
+      radial-gradient(80% 70% at 0% 0%, #F8DC8F 0%, transparent 60%),
+      radial-gradient(90% 80% at 100% 100%, #7FD3C0 0%, transparent 65%),
+      linear-gradient(135deg, #F1D38A, #9CD9BF);
+  }
+  .grad-iris {
+    background:
+      radial-gradient(80% 70% at 0% 0%, #F1A2BD 0%, transparent 60%),
+      radial-gradient(90% 80% at 100% 100%, #4A6FE0 0%, transparent 65%),
+      linear-gradient(135deg, #C98DD0, #6F8CEB);
+  }
+}

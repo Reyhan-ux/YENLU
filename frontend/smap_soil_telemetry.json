@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "source": "NASA SMAP / NASA POWER GEOS-Land Modeling",
+    "coordinates": {
+      "lat": 4.155,
+      "lon": 9.243,
+      "location": "Buea, Fako Division, Mount Cameroon"
+    },
+    "parameters": {
+      "GWETTOP": "Surface Soil Wetness (0-5cm layer, % saturation)",
+      "GWETROOT": "Root Zone Soil Wetness (0-100cm layer, % saturation)",
+      "EVPTRNS": "Total Evapotranspiration (mm/day)"
+    },
+    "generatedAt": "2026-11-15T21:58:34.146Z",
+    "totalDays": 7622
+  },
+  "monthlyAverages": {
+    "0": 68.5,
+    "1": 61.9,
+    "2": 65,
+    "3": 74.8,
+    "4": 78.3,
+    "5": 84.6,
+    "6": 90.4,
+    "7": 92.6,
+    "8": 93.5,
+    "9": 92.3,
+    "10": 90.6,
+    "11": 81.9
+  },
+  "recent30Days": [
+    {
+      "date": "2026-10-15",
+      "rawDate": "20261015",
+      "surfaceSoilMoisturePct": 89,
+      "rootZoneMoisturePct": 88,
+      "evapotranspirationMm": 2.76
+    },
+    {
+      "date": "2026-10-16",
+      "rawDate": "20261016",
+      "surfaceSoilMoisturePct": 89,
+      "rootZoneMoisturePct": 87,
+      "evapotranspirationMm": 5.89
+    },
+    {
+      "date": "2026-10-17",
+      "rawDate": "20261017",
+      "surfaceSoilMoisturePct": 88,
+      "rootZoneMoisturePct": 87,
+      "evapotranspirationMm": 3.8
+    },
+    {
+      "date": "2026-10-18",
+      "rawDate": "20261018",
+      "surfaceSoilMoisturePct": 88,
+      "rootZoneMoisturePct": 86,
+      "evapotranspirationMm": 5.25
+    },
+    {
+      "date": "2026-10-19",
+      "rawDate": "20261019",
+      "surfaceSoilMoisturePct": 87,
+      "rootZoneMoisturePct": 86,
+      "evapotranspirationMm": 5.54
+    },
+    {
+      "date": "2026-10-20",
+      "rawDate": "20261020",
+      "surfaceSoilMoisturePct": 87,
+      "rootZoneMoisturePct": 85,
+      "evapotranspirationMm": 6.15
+    },
+    {
+      "date": "2026-10-21",
+      "rawDate": "20261021",
+      "surfaceSoilMoisturePct": 86,
+      "rootZoneMoisturePct": 84,
+      "evapotranspirationMm": 3.87
+    },
+    {
+      "date": "2026-10-22",
+      "rawDate": "20261022",
+      "surfaceSoilMoisturePct": 86,
+      "rootZoneMoisturePct": 84,
+      "evapotranspirationMm": 3.77
+    },
+    {
+      "date": "2026-10-23",
+      "rawDate": "20261023",
+      "surfaceSoilMoisturePct": 86,
+      "rootZoneMoisturePct": 83,
+      "evapotranspirationMm": 5.13
+    },
+    {
+      "date": "2026-10-24",
+      "rawDate": "20261024",
+      "surfaceSoilMoisturePct": 85,
+      "rootZoneMoisturePct": 83,
+      "evapotranspirationMm": 6.56
+    },
+    {
+      "date": "2026-10-25",
+      "rawDate": "20261025",
+      "surfaceSoilMoisturePct": 86,
+      "rootZoneMoisturePct": 82,
+      "evapotranspirationMm": 8.34
+    },
+    {
+      "date": "2026-10-26",
+      "rawDate": "20261026",
+      "surfaceSoilMoisturePct": 85,
+      "rootZoneMoisturePct": 82,
+      "evapotranspirationMm": 7.23
+    },
+    {
+      "date": "2026-10-27",
+      "rawDate": "20261027",
+      "surfaceSoilMoisturePct": 84,
+      "rootZoneMoisturePct": 82,
+      "evapotranspirationMm": 5.28
+    },
+    {
+      "date": "2026-10-28",
+      "rawDate": "20261028",
+      "surfaceSoilMoisturePct": 84,
+      "rootZoneMoisturePct": 81,
+      "evapotranspirationMm": 4.77
+    },
+    {
+      "date": "2026-10-29",
+      "rawDate": "20261029",
+      "surfaceSoilMoisturePct": 84,
+      "rootZoneMoisturePct": 81,
+      "evapotranspirationMm": 4.21
+    },
+    {
+      "date": "2026-10-30",
+      "rawDate": "20261030",
+      "surfaceSoilMoisturePct": 84,
+      "rootZoneMoisturePct": 81,
+      "evapotranspirationMm": 3.9
+    },
+    {
+      "date": "2026-10-31",
+      "rawDate": "20261031",
+      "surfaceSoilMoisturePct": 84,
+      "rootZoneMoisturePct": 81,
+      "evapotranspirationMm": 5.38
+    },
+    {
+      "date": "2026-11-01",
+      "rawDate": "20261101",
+      "surfaceSoilMoisturePct": 84,
+      "rootZoneMoisturePct": 80,
+      "evapotranspirationMm": 3.43
+    },
+    {
+      "date": "2026-11-02",
+      "rawDate": "20261102",
+      "surfaceSoilMoisturePct": 83,
+      "rootZoneMoisturePct": 80,
+      "evapotranspirationMm": 6.06
+    },
+    {
+      "date": "2026-11-03",
+      "rawDate": "20261103",
+      "surfaceSoilMoisturePct": 83,
+      "rootZoneMoisturePct": 79,
+      "evapotranspirationMm": 5.26
+    },
+    {
+      "date": "2026-11-04",
+      "rawDate": "20261104",
+      "surfaceSoilMoisturePct": 83,
+      "rootZoneMoisturePct": 79,
+      "evapotranspirationMm": 4.61
+    },
+    {
+      "date": "2026-11-05",
+      "rawDate": "20261105",
+      "surfaceSoilMoisturePct": 83,
+      "rootZoneMoisturePct": 79,
+      "evapotranspirationMm": 2.06
+    },
+    {
+      "date": "2026-11-06",
+      "rawDate": "20261106",
+      "surfaceSoilMoisturePct": 83,
+      "rootZoneMoisturePct": 80,
+      "evapotranspirationMm": 3.28
+    },
+    {
+      "date": "2026-11-07",
+      "rawDate": "20261107",
+      "surfaceSoilMoisturePct": 83,
+      "rootZoneMoisturePct": 79,
+      "evapotranspirationMm": 3.96
+    },
+    {
+      "date": "2026-11-08",
+      "rawDate": "20261108",
+      "surfaceSoilMoisturePct": 82,
+      "rootZoneMoisturePct": 79,
+      "evapotranspirationMm": 7.76
+    },
+    {
+      "date": "2026-11-09",
+      "rawDate": "20261109",
+      "surfaceSoilMoisturePct": 82,
+      "rootZoneMoisturePct": 78,
+      "evapotranspirationMm": 7.43
+    },
+    {
+      "date": "2026-11-10",
+      "rawDate": "20261110",
+      "surfaceSoilMoisturePct": 82,
+      "rootZoneMoisturePct": 78,
+      "evapotranspirationMm": 6.9
+    },
+    {
+      "date": "2026-11-11",
+      "rawDate": "20261111",
+      "surfaceSoilMoisturePct": 82,
+      "rootZoneMoisturePct": 77,
+      "evapotranspirationMm": 11.43
+    },
+    {
+      "date": "2026-11-12",
+      "rawDate": "20261112",
+      "surfaceSoilMoisturePct": 81,
+      "rootZoneMoisturePct": 77,
+      "evapotranspirationMm": 3.66
+    },
+    {
+      "date": "2026-11-13",
+      "rawDate": "20261113",
+      "surfaceSoilMoisturePct": 81,
+      "rootZoneMoisturePct": 77,
+      "evapotranspirationMm": 8.55
+    }
+  ],
+  "latestObservation": {
+    "date": "2026-11-13",
+    "rawDate": "20261113",
+    "surfaceSoilMoisturePct": 81,
+    "rootZoneMoisturePct": 77,
+    "evapotranspirationMm": 8.55
+  }
+}
